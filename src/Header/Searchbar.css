@@ -1,0 +1,24 @@
+.form-inline {
+    width: 100%;
+    padding-left: 10px;
+    padding-bottom: 30px;
+    
+  }
+  
+  .form-group {
+    width: 90%;
+    
+  }
+  
+  .input-group {
+    width: 90% !important;
+  }
+  
+  .form-control {
+    width: 450px !important;
+    
+  }
+  
+  span.input-group-addon {
+    width: 50px !important;
+  }

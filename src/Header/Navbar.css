@@ -1,0 +1,16 @@
+.navbar {
+    height: 120px;
+    background-color: rgb(1, 133, 189);
+    width: 100%;
+    
+    
+}
+.tile_div a {
+    display: block;
+    float: left;
+    height: 50px;
+    width: 100px;
+    margin-right: 5px;
+    line-height: 50px;
+    text-decoration: none;
+}
